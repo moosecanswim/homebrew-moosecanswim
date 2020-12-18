@@ -1,8 +1,8 @@
 class HelmReleaser < Formula
   desc "Helm Releaser for managing helm charts in multiple environemnts"
   homepage "https://github.com/moosecanswim/helm-releaser"
-  url "https://github.com/moosecanswim/helm-releaser/archive/0.0.1.tar.gz"
-  sha256 "b16ab2101df6c79ea739bb2ba9655b53f49e75d29443f5952c1d41508c67ea81"
+  url "https://github.com/moosecanswim/helm-releaser/archive/0.0.2.tar.gz"
+  sha256 "b47cce4d3d4a6442160d5037356e41e2fd23faecfc4728392683a9292df399dc"
   head "https://github.com/moosecanswim/helm-releaser.git"
 
   bottle :unneeded
