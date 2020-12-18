@@ -1,4 +1,4 @@
-class Helmreleaser < Formula
+class HelmReleaser < Formula
   desc "Helm Releaser for managing helm charts in multiple environemnts"
   homepage "https://github.com/moosecanswim/helm-releaser"
   url "https://github.com/moosecanswim/helm-releaser/archive/0.0.1.tar.gz"
